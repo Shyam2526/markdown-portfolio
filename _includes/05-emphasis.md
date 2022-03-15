@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Bold and Italic Sentences
+**India's New Captain**
+*Rohit Sharma.*
+# __Mumbai Indians__
+_5 times Champions,_
+**IPL _starts from march 26_ really exicted**
